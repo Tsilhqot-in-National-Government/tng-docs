@@ -2,13 +2,14 @@
 This is a streamlined and modified version of [Angular's guide](%22https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit-message-header%22).
 
 ## Commit Message Header
-\<type\>(\<scope\>):\ <short summary\>
-  │       │             │
-  │       │             └─⫸ Summary in present imperative. Not capitalized. No period at the end.
-  │       │
-  │       └─⫸ Commit Scope: Optional, lower-case name of the feature or functionality. 
-  │				E.g. puzzle|caching|memory-match. (this differs from Angular)
-  └─⫸ Commit Type: build|ci|docs|feat|fix|perf|refactor|test
+\<type>(\<scope>):\<short summary>
+
+short summary: in present imperative. Not capitalized. No period at the end.
+
+scope: Optional, lower-case name of the feature or functionality. 
+E.g. puzzle|caching|memory-match. (this differs from Angular)
+
+type: build|ci|docs|feat|fix|perf|refactor|test
 
 Note that the summary line in the header should use the imperative. So use 'add component' not 'added component' or 'adds component'.
 
