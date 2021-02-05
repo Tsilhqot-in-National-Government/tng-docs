@@ -1,5 +1,5 @@
 # TNG Commit Message Styleguide
-This is a streamlined and modified version of [Angular's guide](%22https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit-message-header%22).
+This is a streamlined and modified version of [Angular's guide](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit-message-header) .
 
 ## Commit Message Header
 \<type>(\<scope>):\<short summary>
